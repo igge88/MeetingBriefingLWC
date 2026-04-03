@@ -1,0 +1,5 @@
+{
+  "title": "HTML Response",
+  "description": "Renders raw HTML output from Agentforce",
+  "lightning:type": "@apexClassType/c__AvailableHTMLOutput"
+}
